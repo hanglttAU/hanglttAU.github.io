@@ -4,12 +4,10 @@ description: Personal resume and portfolio
 #show_downloads: false
 theme: jekyll-theme-cayman
 
-# Enable navigation links for different pages
-navbar:
-  - name: Home
-    link: /
-  - name: Projects
-    link: /projects
+# Custom Navigation Links
+header_pages:
+  - index.md
+  - projects.md
 # Include custom CSS
 custom_css:
   - asset/style.css

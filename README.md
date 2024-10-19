@@ -1,9 +1,3 @@
-# Data Analyst
+# My Portfolio
 
-### Education
-### Work Experience
-Data Analyst @ Transport Department
-- big impact project 1!
-- big impact
-
-#Project
+This repository contains the code for my portfolio website hosted using GitHub Pages.

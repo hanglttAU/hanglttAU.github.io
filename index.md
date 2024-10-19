@@ -3,7 +3,7 @@ layout: default
 title: "Home"
 ---
 # Welcome to My Portfolio
-
+![My Picture](./asset/Hang Le.jpeg) <!-- This displays your image -->
 This is the home page of my portfolio. Explore my projects and background.
 
 [View My Projects](./projects) <!-- This is a text link -->

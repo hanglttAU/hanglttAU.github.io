@@ -10,3 +10,6 @@ navbar:
     link: /
   - name: Projects
     link: /projects
+# Include custom CSS
+custom_css:
+  - asset/style.css

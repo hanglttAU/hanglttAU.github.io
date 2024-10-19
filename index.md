@@ -2,6 +2,14 @@
 layout: default
 title: "Home"
 ---
+# Welcome to My Portfolio
+
+This is the home page of my portfolio. Explore my projects and background.
+
+[View My Projects](./projects) <!-- This is a text link -->
+
+<!-- Button-style link -->
+<a href="./projects" style="display:inline-block; background-color:#4CAF50; color:white; padding: 10px 20px; text-align:center; text-decoration:none; border-radius:5px;">Go to Projects</a>
 
 # Hằng Lê
 **Email:** your-email@example.com  

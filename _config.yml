@@ -1,5 +1,5 @@
 title: "My Portfolio"
-logo: asset/Hang Le.jpeg
+logo: assets/Hang Le.jpeg
 description: Personal resume and portfolio
 #show_downloads: false
 theme: jekyll-theme-cayman
@@ -10,4 +10,4 @@ header_pages:
   - projects.md
 # Include custom CSS
 custom_css:
-  - asset/style.css
+  - assets/style.css

@@ -1,1 +1,13 @@
+/* Adjust Navbar Height and Font Size */
+.navbar {
+    height: 20px; /* Change height as needed */
+    font-size: 14px; /* Change font size as needed */
+}
 
+.navbar-brand {
+    font-size: 16px; /* Adjust site title font size */
+}
+
+.navbar-nav > li > a {
+    padding: 10px 15px; /* Adjust padding for navbar links */
+}

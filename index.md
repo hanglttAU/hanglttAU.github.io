@@ -1,5 +1,6 @@
 ---
-title: "Hằng Lê's Resume"
+layout: default
+title: "Home"
 ---
 
 # Hằng Lê

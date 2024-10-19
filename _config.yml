@@ -1,10 +1,12 @@
-title: "Hằng Lê's Resume"
+title: "My Portfolio"
 logo: asset/Hang Le.jpeg
 description: Personal resume and portfolio
 #show_downloads: false
 theme: jekyll-theme-cayman
 
 # Enable navigation links for different pages
-header_pages:
-  - index.md
-  - projects.md
+navbar:
+  - name: Home
+    link: /
+  - name: Projects
+    link: /projects

@@ -4,8 +4,8 @@ title: "Hằng Lê's Resume"
 
 # Hằng Lê
 **Email:** your-email@example.com  
-**LinkedIn:** [LinkedIn Profile](your-linkedin-url)  
-**GitHub:** [GitHub Profile](https://github.com/your-username)
+**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/hang-le-194b21b9/)  
+**GitHub:** [GitHub Profile](https://github.com/hanglttAU)
 
 ## Education
 **Master's in Transportation Systems and Management**  

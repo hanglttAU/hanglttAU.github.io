@@ -2,6 +2,9 @@ title: "Hang Le"
 logo: assets/Hang Le.jpeg
 #description: Personal resume and portfolio
 #show_downloads: false
+<a href="assets/CV.pdf" download>
+  <button>Download My CV</button>
+</a>
 theme: jekyll-theme-minimal
 
 # Custom Navigation Links

@@ -11,3 +11,8 @@
 .navbar-nav > li > a {
     padding: 10px 15px; /* Adjust padding for navbar links */
 }
+
+.logo {
+    width: 200px; /* Adjust as needed */
+    height: auto;
+}

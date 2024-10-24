@@ -3,7 +3,9 @@ layout: default
 title: "Home"
 ---
 ## About Me
-I am a data-driven problem solver with extensive experience in data analysis, business intelligence, and transportation systems management. Currently managing my own Etsy shop, HandmadeVN2US, I am honing my skills in e-commerce, inventory management, and marketing while pursuing a career in data science.
+- 15+ years of working experience across Vietnam, Singapore, Australia, and the US, bringing a unique cross-cultural perspective and adaptability to global environments.
+- Dual education in Engineering and IT, providing problem-solving skills as well as technical skills needed to implement solutions.
+- Experience in a wide range of BI tools, offering the ability to not only extract and analyze complex data but also present it effectively.
 
 ## Experience
 **Business Owner, US (2024-present)**  

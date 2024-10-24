@@ -3,9 +3,7 @@ layout: default
 title: "Home"
 ---
 ## About Me
-- 15+ years of working experience across Vietnam, Singapore, Australia, and the US, bringing a unique cross-cultural perspective and adaptability to global environments.
-- Dual education in Engineering and IT, providing problem-solving skills as well as technical skills needed to implement solutions.
-- Experience in a wide range of BI tools, offering the ability to not only extract and analyze complex data but also present it effectively.
+With over 15 years of professional experience across Vietnam, Singapore, Australia, and the US, I bring a cross-cultural perspective and strong adaptability to global environments. My dual education in Engineering and IT equips me with problem-solving and technical skills necessary for implementing effective solutions. I am experienced in a variety of BI tools, allowing me to extract, analyze, and present complex data in a meaningful way.
 
 ## Experience
 **Business Owner, US (2024-present)**  

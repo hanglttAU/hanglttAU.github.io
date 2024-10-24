@@ -2,7 +2,7 @@ title: "My Portfolio"
 logo: assets/Hang Le.jpeg
 description: Personal resume and portfolio
 #show_downloads: false
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 
 # Custom Navigation Links
 header_pages:

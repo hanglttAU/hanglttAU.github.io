@@ -2,7 +2,7 @@
 layout: default
 title: "Home"
 ---
-## About Me
+
 With over 15 years of professional experience across Vietnam, Singapore, Australia, and the US, I bring a cross-cultural perspective and strong adaptability to global environments. My dual education in Engineering and IT equips me with problem-solving and technical skills necessary for implementing effective solutions. I am experienced in a variety of BI tools, allowing me to extract, analyze, and present complex data in a meaningful way.
 
 ## Experience

@@ -2,21 +2,13 @@
 layout: default
 title: "Home"
 ---
-
-**Email:** <a href="mailto:hangltt.sg@gmail.com">hangltt.sg@gmail.com</a>
-
-**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/hangleus/)  
-**GitHub:** [GitHub Profile](https://github.com/hanglttAU)
-
-## Education
-**Master's in Transportation Systems and Management**  
-**Bachelor's in Information Technology**
+## About Me
+I am a data-driven problem solver with extensive experience in data analysis, business intelligence, and transportation systems management. Currently managing my own Etsy shop, HandmadeVN2US, I am honing my skills in e-commerce, inventory management, and marketing while pursuing a career in data science.
 
 ## Experience
 **Business Owner, US (2024-present)**  
-•	Business Domain Knowledge: Managing all aspects of an online Etsy store, including inventory management, pricing strategy, customer service, and marketing for 30+ products, gaining domain knowledge in small business operations and reaching 25+ cities across the US in just 3 months. 
-
-•	Data Analysis: Analyzed metrics such as favourites, orders per visit, and views per visit to develop strategies for improving shop visibility, promotions, and stock planning, leading to a 100% increase in visits within 2 months of launching. 
+- Business Domain Knowledge: Managing all aspects of an online Etsy store, including inventory management, pricing strategy, customer service, and marketing for 30+ products, gaining domain knowledge in small business operations and reaching 30 cities across the US in 3 months. <br>
+- Data Analysis: Analyzed metrics such as favorites, orders per visit, and views per visit to develop strategies for improving shop visibility, promotions, and inventory planning.
 
 **Analyst, Australia (2016-2021)**  
 •	Business Intelligence: Aggregated data using R and created self-serve dashboards in Power BI and Tableau to present 15 years of train and tram demain across various dimentions (yearly, quarterly, monthly, hourly, day type, location), reducing repsonse time for data requests from 2 days to less than 1 hour, ensuring timely, consistent, and accurate reporting. 
@@ -56,6 +48,14 @@ title: "Home"
 
 •	Transport Modelling: CUBE, EMME
 
-## Projects
-- [Project 1](project-link) - Description of your first project.
-- [Project 2](project-link) - Description of your second project.
+## Portfolio
+- [HandmadeVN2US Etsy Shop](https://handmadevn2us.etsy.com)
+- [Data Visualization Portfolio](https://public.tableau.com/app/profile/hang.le/vizzes)
+
+## Education
+**Master's in Transportation Systems and Management**  
+**Bachelor's in Information Technology**
+
+## Contact
+**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/hangleus/)  
+**GitHub:** [GitHub Profile](https://github.com/hanglttAU)

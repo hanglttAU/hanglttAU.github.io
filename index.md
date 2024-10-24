@@ -45,3 +45,6 @@ With over 15 years of professional experience across Vietnam, Singapore, Austral
 ## Contact
 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/hangleus/)  
 **GitHub:** [GitHub Profile](https://github.com/hanglttAU)
+<a href="assets/cv.pdf" download>
+  <button>Download My CV</button>
+</a>

@@ -2,8 +2,8 @@
 layout: default
 title: "Home"
 ---
-# Hằng Lê
-**Email:** [hangltt.sg@gmail.com](hangltt.sg@gmail.com)
+
+**Email:** <a href="mailto:hangltt.sg@gmail.com">hangltt.sg@gmail.com</a>
 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/hangleus/)  
 **GitHub:** [GitHub Profile](https://github.com/hanglttAU)
 
@@ -14,10 +14,12 @@ title: "Home"
 ## Experience
 **Business Owner, US (2024-present)**  
 •	Business Domain Knowledge: Managing all aspects of an online Etsy store, including inventory management, pricing strategy, customer service, and marketing for 30+ products, gaining domain knowledge in small business operations and reaching 25+ cities across the US in just 3 months. 
+
 •	Data Analysis: Analyzed metrics such as favourites, orders per visit, and views per visit to develop strategies for improving shop visibility, promotions, and stock planning, leading to a 100% increase in visits within 2 months of launching. 
 
 **Analyst, Australia (2016-2021)**  
 •	Business Intelligence: Aggregated data using R and created self-serve dashboards in Power BI and Tableau to present 15 years of train and tram demain across various dimentions (yearly, quarterly, monthly, hourly, day type, location), reducing repsonse time for data requests from 2 days to less than 1 hour, ensuring timely, consistent, and accurate reporting. 
+
 •	Business Process Automation: Transformed legacy data structures from MS Access and Excel into organized databases and automated processes using SQL Server and R scripts, achieving a 500% performance increase by reducing a 3-hour manual task to a 30-minute automatic task weekly.
 •	Data Analysis: Developed data analysis algorithms in R to estimate tram travel demand, identify passengers affected by train disruptions, and aggregate train line loadings. Visualized results and effectively communicated findings with stakeholders, enhancing team capacity by more than 100%. 
 •	Data Science: Utilized historical public transport demand in a short-term forecasting model in R to project patronage for the next 1-2 year. 
